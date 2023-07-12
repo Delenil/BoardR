@@ -48,8 +48,12 @@ public class BoardItem {
 
         for (int i = 0; i < statuses.length; i++) {
             if (statuses[i] == this.status) {
+                index = i;
                 break;
             }
+        }
+        if (index != 0){
+            index = index -1;
         }
         status = statuses[index];
         return status;

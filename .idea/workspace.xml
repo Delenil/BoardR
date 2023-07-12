@@ -8,8 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93244f0e-6599-4323-9c73-bde8f8f67356" name="Changes" comment="NewShnenanigans">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="93244f0e-6599-4323-9c73-bde8f8f67356" name="Changes" comment="Some changes and updates to streamline code based on what we've seen so far:">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BoardItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BoardItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -44,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Projects and mrojects/Solution/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +59,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689144290908</updated>
-      <workItem from="1689144292151" duration="12293000" />
+      <workItem from="1689144292151" duration="12681000" />
+      <workItem from="1689157514832" duration="48000" />
+      <workItem from="1689171097153" duration="1846000" />
     </task>
     <task id="LOCAL-00001" summary="NewShnenanigans">
       <created>1689154808700</created>
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689154808700</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Some changes and updates to streamline code based on what we've seen so far:">
+      <created>1689157442579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689157442579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +98,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="NewShnenanigans" />
-    <option name="LAST_COMMIT_MESSAGE" value="NewShnenanigans" />
+    <MESSAGE value="Some changes and updates to streamline code based on what we've seen so far:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some changes and updates to streamline code based on what we've seen so far:" />
   </component>
 </project>
